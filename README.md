@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Amine Rouissi</h1>
 <h3 align="center">A passionate Full Stack developer from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/NxfN.gif">
-<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="am1n0n" /> </p>
+
 
 - 🌱 I’m currently learning **Flutter and C#**
 
