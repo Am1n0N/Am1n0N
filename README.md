@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Mohamed Amine Rouissi</h1>
 <h3 align="center">A passionate Full Stack developer from Tunisia</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://i.gifer.com/NxfN.gif)">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/NxfN.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=am1n0n&label=Profile%20views&color=0e75b6&style=flat" alt="am1n0n" /> </p>
 
 - 🌱 I’m currently learning **Flutter and C#**
