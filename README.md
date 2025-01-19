@@ -1,19 +1,26 @@
 <h1 align="center">Hi 👋, I'm Mohamed Amine Rouissi</h1>
-<h3 align="center">A passionate Full Stack Developer from Tunisia</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/NxfN.gif">
-🌱 I’m currently learning Flutter and C#
-📫 How to reach me: Mohamedaminerouissi26@gmail.com
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">A Passionate Full Stack Developer from Tunisia</h3>
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+- 🌱 I’m currently learning **Flutter** and **C#**  
+- 📫 How to reach me: **Mohamedaminerouissi26@gmail.com**
+
+---
+
+### 🌐 Connect with Me:
 <p align="left">
   <a href="https://linkedin.com/in/mohamed-amine-rouissi-270616254" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://fb.com/mohamedamine.rouissi" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
+
+---
+
+### 🛠️ Languages and Tools:
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" />
