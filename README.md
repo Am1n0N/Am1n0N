@@ -1,83 +1,87 @@
-<h1 align="center">Hi 👋, I'm Mohamed Amine Rouissi</h1>
-<h3 align="center">Full Stack Engineer | Backend & Systems Focus | Tunisia 🇹🇳</h3>
+<div align="center">
 
-<p align="center">
-  Building scalable systems, modern web apps, and experimenting with SaaS & game development.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00E5A0&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mohamed+Amine+%F0%9F%91%8B;Full+Stack+Engineer;Backend+%26+Systems+Focused;Building+SaaS+%7C+3D+Games+%7C+Platforms" alt="Typing SVG" />
 
-<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0c10?style=for-the-badge&logo=linkedin&logoColor=00E5A0)](https://linkedin.com/in/mohamed-amine-rouissi-270616254)
+[![Facebook](https://img.shields.io/badge/Facebook-0a0c10?style=for-the-badge&logo=facebook&logoColor=00E5A0)](https://fb.com/mohamedamine.rouissi)
+[![Email](https://img.shields.io/badge/Email-0a0c10?style=for-the-badge&logo=gmail&logoColor=00E5A0)](mailto:Mohamedaminerouissi26@gmail.com)
+[![Tunisia](https://img.shields.io/badge/Tunisia-0a0c10?style=for-the-badge&logo=googlemaps&logoColor=00E5A0)](https://en.wikipedia.org/wiki/Tunisia)
 
-### 🚀 About Me
-- 🎓 Computer Science Engineer (Network Engineering)
-- 💼 Currently working as a **Software Engineer**
-- ⚙️ Transitioning from **Monolith → Microservices architectures**
-- 🧠 Interested in **System Design, Backend Engineering & DevOps**
-- 🏗️ Building side projects around **SaaS, 3D Web Games & Platforms**
-- 🌱 Currently exploring **C#**, **Flutter**, and **Linux/Security**
+</div>
 
 ---
 
-### 🧩 What I Work With
-- 💻 **Frontend:** Next.js, React, Three.js  
-- 🔧 **Backend:** Spring Boot, Node.js, REST APIs  
-- 🗄️ **Databases:** MySQL, PostgreSQL, MongoDB, Redis  
-- ⚡ **Architecture:** Microservices, API Design, RAG Systems  
-- 🐧 **Systems:** Linux, Networking Basics  
-- ☁️ **Tools:** Docker (learning), Git, CI/CD concepts  
+## `$ whoami`
+
+```yaml
+name:     Mohamed Amine Rouissi
+role:     Full Stack Engineer
+focus:    Backend · System Design · DevOps
+degree:   CS Engineer — Network Engineering
+location: Tunisia 🇹🇳
+status:   Open to opportunities
+```
+
+> Transitioning from **Monolith → Microservices** · Interested in **System Design, Backend Engineering & DevOps** · Building side projects around **SaaS, 3D Web Games & Platforms** · Currently exploring **C#**, **Flutter**, and **Linux/Security**
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/mohamed-amine-rouissi-270616254" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/mohamedamine.rouissi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-  </a>
-</p>
+## `$ ls ./stack`
 
-📫 **Email:** Mohamedaminerouissi26@gmail.com  
+**Frontend**
 
----
+[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
+[![Three.js](https://skillicons.dev/icons?i=threejs)](https://threejs.org)
 
-### 🛠️ Tech Stack
-<p align="left">
+**Backend**
 
-<!-- Frontend -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="40" height="40"/>
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
+[![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
 
-<!-- Backend -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+**Databases**
 
-<!-- Databases -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40"/>
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
+[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io)
 
-<!-- Tools -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+**DevOps & Tools**
 
-</p>
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org)
 
 ---
 
-### ⚡ Current Focus
-- 🧱 Designing **scalable backend systems**
-- 🔄 Learning **microservices best practices**
-- 🚀 Building a **Tunisian SaaS platform (Vercel-like)**
-- 🎮 Experimenting with **multiplayer web games (Three.js + Socket.io)**
+## `$ cat ./focus.md`
+
+| 🧱 | Designing **scalable backend systems** with resilient, high-throughput architecture |
+|---|---|
+| 🔄 | Learning **microservices best practices** — event-driven design, service mesh, distributed tracing |
+| 🚀 | Building a **Tunisian SaaS platform** (Vercel-like deployment infrastructure) |
+| 🎮 | Experimenting with **multiplayer web games** using Three.js + Socket.io |
 
 ---
 
-### 📊 Mindset
-> Clean architecture. Scalable systems. Real-world impact.
+## `$ cat ./stats.log`
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AmineSak&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0c10&title_color=00E5A0&icon_color=5b8dee&text_color=7d8590&ring_color=00E5A0" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineSak&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0c10&title_color=00E5A0&text_color=7d8590" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Clean architecture. Scalable systems. Real-world impact.*
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AmineSak.AmineSak&left_color=0a0c10&right_color=00e5a0&left_text=visitors)
+
+</div>
