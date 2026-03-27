@@ -71,8 +71,10 @@ status:   Open to opportunities
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Am1n0N&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0c10&title_color=00E5A0&icon_color=5b8dee&text_color=7d8590&ring_color=00E5A0" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Am1n0N&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0c10&title_color=00E5A0&text_color=7d8590" />
+<img src="https://streak-stats.demolab.com?user=Am1n0N&theme=github-dark-blue&hide_border=true&background=0a0c10&stroke=21262d&ring=00E5A0&fire=f97316&currStreakLabel=00E5A0&sideLabels=7d8590&currStreakNum=e6edf3&sideNums=e6edf3&dates=484f58" />
+<br/><br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Am1n0N&theme=github_dark&hide_border=true" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Am1n0N&theme=github_dark&hide_border=true&utcOffset=1" height="160"/>
 
 </div>
 
