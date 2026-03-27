@@ -71,8 +71,8 @@ status:   Open to opportunities
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AmineSak&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0c10&title_color=00E5A0&icon_color=5b8dee&text_color=7d8590&ring_color=00E5A0" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineSak&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0c10&title_color=00E5A0&text_color=7d8590" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Am1n0N&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0c10&title_color=00E5A0&icon_color=5b8dee&text_color=7d8590&ring_color=00E5A0" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Am1n0N&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0c10&title_color=00E5A0&text_color=7d8590" />
 
 </div>
 
@@ -82,6 +82,6 @@ status:   Open to opportunities
 
 *Clean architecture. Scalable systems. Real-world impact.*
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AmineSak.AmineSak&left_color=0a0c10&right_color=00e5a0&left_text=visitors)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Am1n0N.Am1n0N&left_color=0a0c10&right_color=00e5a0&left_text=visitors)
 
 </div>
