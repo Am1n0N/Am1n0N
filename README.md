@@ -1,19 +1,15 @@
 <div align="center">
 
-<!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0c10,50:00E5A0,100:0a0c10&height=120&section=header&animation=fadeIn" width="100%"/>
 
-<!-- Glitch name -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color=00E5A0&center=true&vCenter=true&repeat=true&width=700&height=55&lines=Mohamed+Amine+Rouissi;Full+Stack+Engineer+%F0%9F%9A%80;Backend+%26+Systems+Architect;SaaS+%7C+3D+Games+%7C+Platforms;Open+to+Opportunities+%E2%9C%85" alt="Typing SVG" />
 
 <br/>
 
-<!-- Subline -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=4000&pause=3000&color=7D8590&center=true&vCenter=true&repeat=false&width=600&height=25&lines=Transitioning+Monolith+%E2%86%92+Microservices+%C2%B7+Tunisia+%F0%9F%87%B9%F0%9F%87%B3" alt="Subline" />
 
 <br/><br/>
 
-<!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230a0c10?style=for-the-badge&logo=linkedin&logoColor=00E5A0&labelColor=0a0c10)](https://linkedin.com/in/mohamed-amine-rouissi-270616254)
 [![Facebook](https://img.shields.io/badge/Facebook-%230a0c10?style=for-the-badge&logo=facebook&logoColor=00E5A0&labelColor=0a0c10)](https://fb.com/mohamedamine.rouissi)
 [![Email](https://img.shields.io/badge/Email-%230a0c10?style=for-the-badge&logo=gmail&logoColor=00E5A0&labelColor=0a0c10)](mailto:Mohamedaminerouissi26@gmail.com)
@@ -21,8 +17,7 @@
 
 <br/>
 
-<!-- Profile views + trophies -->
-![Profile Views](https://komarev.com/ghpvc/?username=Am1n0N&style=for-the-badge&color=00E5A0&labelColor=0a0c10&label=PROFILE+VIEWS)
+[![Profile Views](https://komarev.com/ghpvc/?username=Am1n0N&style=for-the-badge&color=00E5A0&labelColor=0a0c10&label=PROFILE+VIEWS)](https://github.com/Am1n0N)
 
 </div>
 
@@ -85,28 +80,13 @@
 
 ## `$ cat ./focus.md`
 
-<table>
-<tr>
-<td>🧱</td>
-<td>Designing <strong>scalable backend systems</strong> with resilient, high-throughput architecture and clean service boundaries</td>
-</tr>
-<tr>
-<td>🔄</td>
-<td>Learning <strong>microservices best practices</strong> — event-driven design, service mesh & distributed tracing</td>
-</tr>
-<tr>
-<td>🚀</td>
-<td>Building a <strong>Tunisian SaaS platform</strong> — Vercel-like deployment infrastructure from scratch</td>
-</tr>
-<tr>
-<td>🎮</td>
-<td>Experimenting with <strong>multiplayer web games</strong> using Three.js + Socket.io</td>
-</tr>
-<tr>
-<td>🔐</td>
-<td>Diving deeper into <strong>Linux internals, security</strong> and low-level systems</td>
-</tr>
-</table>
+| | |
+|---|---|
+| 🧱 | Designing **scalable backend systems** with resilient, high-throughput architecture and clean service boundaries |
+| 🔄 | Learning **microservices best practices** — event-driven design, service mesh & distributed tracing |
+| 🚀 | Building a **Tunisian SaaS platform** — Vercel-like deployment infrastructure from scratch |
+| 🎮 | Experimenting with **multiplayer web games** using Three.js + Socket.io |
+| 🔐 | Diving deeper into **Linux internals, security** and low-level systems |
 
 ---
 
@@ -114,40 +94,31 @@
 
 <div align="center">
 
-<!-- GitHub Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=Am1n0N&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=6" width="100%" alt="trophies"/>
 
 <br/><br/>
 
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=Am1n0N&theme=github-dark-blue&hide_border=true&background=0a0c10&stroke=21262d&ring=00E5A0&fire=f97316&currStreakLabel=00E5A0&sideLabels=7d8590&currStreakNum=e6edf3&sideNums=e6edf3&dates=484f58" alt="GitHub Streak" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=Am1n0N&theme=github-dark-blue&hide_border=true&background=0a0c10&stroke=21262d&ring=00E5A0&fire=f97316&currStreakLabel=00E5A0&sideLabels=7d8590&currStreakNum=e6edf3&sideNums=e6edf3&dates=484f58" width="70%" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<!-- Language + Productive time cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Am1n0N&theme=github_dark&hide_border=true" height="155"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Am1n0N&theme=github_dark&hide_border=true&utcOffset=1" height="155"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Am1n0N&theme=github_dark&hide_border=true" height="160" alt="Languages"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Am1n0N&theme=github_dark&hide_border=true&utcOffset=1" height="160" alt="Productive Time"/>
 
 <br/><br/>
 
-<!-- Activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Am1n0N&theme=github-compact&bg_color=0a0c10&color=00E5A0&line=00b87e&point=f97316&hide_border=true&area=true&area_color=00E5A0" width="100%" alt="Activity Graph"/>
 
 </div>
 
 ---
 
-<!-- Contribution Snake -->
 <div align="center">
 
 ### `$ git log --oneline --graph`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Am1n0N/Am1n0N/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Am1n0N/Am1n0N/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Am1n0N/Am1n0N/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/Am1n0N/Am1n0N/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -159,7 +130,7 @@
 
 <br/>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Am1n0N.Am1n0N&left_color=0a0c10&right_color=00e5a0&left_text=visitors)
+[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Am1n0N.Am1n0N&left_color=0a0c10&right_color=00e5a0&left_text=visitors)](https://github.com/Am1n0N)
 
 <br/>
 
