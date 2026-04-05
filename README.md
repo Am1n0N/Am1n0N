@@ -8,10 +8,10 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e0906?style=for-the-badge&logo=linkedin&logoColor=C9A84C)](https://linkedin.com/in/mohamed-amine-rouissi-270616254)
-[![Facebook](https://img.shields.io/badge/Facebook-0e0906?style=for-the-badge&logo=facebook&logoColor=C9A84C)](https://fb.com/mohamedamine.rouissi)
-[![Email](https://img.shields.io/badge/Email-0e0906?style=for-the-badge&logo=gmail&logoColor=C9A84C)](mailto:Mohamedaminerouissi26@gmail.com)
-[![Tunisia](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B3%20Tunis%2C%20Tunisia-CC0001?style=for-the-badge)](https://en.wikipedia.org/wiki/Tunisia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e0906?style=for-the-badge&logo=linkedin&logoColor=C9A84C&labelColor=0e0906)](https://linkedin.com/in/mohamed-amine-rouissi-270616254)
+[![Facebook](https://img.shields.io/badge/Facebook-0e0906?style=for-the-badge&logo=facebook&logoColor=C9A84C&labelColor=0e0906)](https://fb.com/mohamedamine.rouissi)
+[![Email](https://img.shields.io/badge/Email-0e0906?style=for-the-badge&logo=gmail&logoColor=C9A84C&labelColor=0e0906)](mailto:Mohamedaminerouissi26@gmail.com)
+[![Tunisia](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B3%20Tunis%2C%20Tunisia-CC0001?style=for-the-badge&labelColor=8B0000)](https://en.wikipedia.org/wiki/Tunisia)
 
 <br/>
 
