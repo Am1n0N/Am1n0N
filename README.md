@@ -98,11 +98,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Am1n0N&show_icons=true&theme=dark&bg_color=0e0906&title_color=CC0001&icon_color=C9A84C&text_color=F5EDD6&border_color=2e1c0c&hide_border=false&count_private=true" width="48%" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Am1n0N&layout=compact&theme=dark&bg_color=0e0906&title_color=CC0001&text_color=F5EDD6&border_color=2e1c0c&hide_border=false" width="47%" alt="Top Languages"/>
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Am1n0N&theme=github-dark-blue&hide_border=false&background=0e0906&stroke=2e1c0c&ring=CC0001&fire=C9A84C&currStreakLabel=CC0001&sideLabels=8a7560&currStreakNum=F5EDD6&sideNums=F5EDD6&dates=5a4030&border=2e1c0c" width="65%" alt="GitHub Streak"/>
 
