@@ -1,22 +1,17 @@
 <div align="center">
 
-<!-- Tunisian-themed waving header: flag red + gold -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e0906,40:CC0001,70:C9A84C,100:0e0906&height=130&section=header&animation=fadeIn&fontColor=F5EDD6" width="100%"/>
-
-<!-- Crescent & Star badge -->
-<img src="https://readme-typing-svg.demolab.com?font=Amiri&weight=700&size=36&duration=2800&pause=1000&color=CC0001&center=true&vCenter=true&repeat=true&width=720&height=60&lines=Mohamed+Amine+Rouissi;مهندس+برمجيات+%7C+Full+Stack+Engineer;Backend+%26+Systems+Architect;Building+from+the+heart+of+Tunisia+%F0%9F%87%B9%F0%9F%87%B3" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e0906,35:8B0000,65:CC0001,85:C9A84C,100:0e0906&height=140&section=header&animation=fadeIn&text=Am1n0N&fontColor=F5EDD6&fontSize=42&fontAlignY=65&desc=محمد%20أمين%20الرويسي&descAlignY=85&descSize=16&descColor=C9A84C" width="100%"/>
 
 <br/>
 
-<!-- Arabic subtitle -->
-<img src="https://readme-typing-svg.demolab.com?font=Amiri&weight=400&size=16&duration=5000&pause=4000&color=C9A84C&center=true&vCenter=true&repeat=false&width=600&height=28&lines=بناء+المستقبل+من+قلب+تونس+%E2%80%94+Building+the+future+from+Tunisia" alt="Arabic Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=900&color=CC0001&center=true&vCenter=true&repeat=true&width=680&height=50&lines=Full+Stack+Engineer+%F0%9F%9A%80;Backend+%26+Systems+Architect;Building+SaaS+%7C+3D+Games+%7C+Platforms;Open+to+Opportunities+%E2%9C%85;Proud+to+code+from+Tunisia+%F0%9F%87%B9%F0%9F%87%B3" alt="Typing SVG" />
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230e0906?style=for-the-badge&logo=linkedin&logoColor=C9A84C&labelColor=0e0906)](https://linkedin.com/in/mohamed-amine-rouissi-270616254)
-[![Facebook](https://img.shields.io/badge/Facebook-%230e0906?style=for-the-badge&logo=facebook&logoColor=C9A84C&labelColor=0e0906)](https://fb.com/mohamedamine.rouissi)
-[![Email](https://img.shields.io/badge/Email-%230e0906?style=for-the-badge&logo=gmail&logoColor=C9A84C&labelColor=0e0906)](mailto:Mohamedaminerouissi26@gmail.com)
-[![Tunisia](https://img.shields.io/badge/🇹🇳_Tunis,_Tunisia-%230e0906?style=for-the-badge&logoColor=CC0001&labelColor=0e0906)](https://en.wikipedia.org/wiki/Tunisia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e0906?style=for-the-badge&logo=linkedin&logoColor=C9A84C)](https://linkedin.com/in/mohamed-amine-rouissi-270616254)
+[![Facebook](https://img.shields.io/badge/Facebook-0e0906?style=for-the-badge&logo=facebook&logoColor=C9A84C)](https://fb.com/mohamedamine.rouissi)
+[![Email](https://img.shields.io/badge/Email-0e0906?style=for-the-badge&logo=gmail&logoColor=C9A84C)](mailto:Mohamedaminerouissi26@gmail.com)
+[![Tunisia](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B3%20Tunis%2C%20Tunisia-CC0001?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Tunisia)
 
 <br/>
 
@@ -26,23 +21,21 @@
 
 ---
 
-<div align="center"><sub>✦ &nbsp; &nbsp; ✦ &nbsp; &nbsp; ✦</sub></div>
-
 ## `$ whoami`
 
 ```yaml
 ┌──────────────────────────────────────────────────────────────┐
-│  name:      Mohamed Amine Rouissi  │  محمد أمين الرويسي      │
+│  name:      Mohamed Amine Rouissi  |  محمد أمين الرويسي      │
 │  role:      Full Stack Engineer                               │
 │  focus:     Backend · System Design · DevOps                 │
 │  degree:    CS Engineer — Network Engineering                 │
-│  origin:    Tunis, Tunisia 🇹🇳  # Land of Carthage           │
+│  origin:    Tunis, Tunisia 🇹🇳      # Land of Carthage        │
 │  status:  ● Open to opportunities                            │
 │  exploring: [ C#, Flutter, Linux/Security ]                  │
 └──────────────────────────────────────────────────────────────┘
 ```
 
-> ⚡ Transitioning **Monolith → Microservices** &nbsp;·&nbsp; Building **SaaS, 3D Web Games & Platforms** &nbsp;·&nbsp; Proud to code from **Tunisia** 🌍
+> ⚡ Transitioning **Monolith → Microservices** &nbsp;·&nbsp; Building **SaaS, 3D Web Games & Platforms** &nbsp;·&nbsp; Proudly coding from **Tunisia** 🌍
 
 ---
 
@@ -93,11 +86,11 @@
 
 | | |
 |---|---|
-| 🧱 | Designing **scalable backend systems** — resilient, high-throughput architecture with clean service boundaries |
+| 🧱 | Designing **scalable backend systems** — resilient, high-throughput architecture and clean service boundaries |
 | 🔄 | Learning **microservices best practices** — event-driven design, service mesh & distributed tracing |
 | 🚀 | Building a **Tunisian SaaS platform** — Vercel-like deployment infra for the Arab & African web |
 | 🎮 | Experimenting with **multiplayer web games** using Three.js + Socket.io |
-| 🔐 | Diving into **Linux internals, security** and low-level systems engineering |
+| 🔐 | Diving into **Linux internals & security** and low-level systems engineering |
 
 ---
 
@@ -105,21 +98,21 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Am1n0N&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=6" width="100%" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Am1n0N&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" width="100%" alt="trophies"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Am1n0N&theme=github-dark-blue&hide_border=true&background=160d07&stroke=2e1c0c&ring=CC0001&fire=C9A84C&currStreakLabel=CC0001&sideLabels=8a7560&currStreakNum=F5EDD6&sideNums=F5EDD6&dates=5a4030" width="70%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Am1n0N&theme=github-dark-blue&hide_border=true&background=0e0906&stroke=2e1c0c&ring=CC0001&fire=C9A84C&currStreakLabel=CC0001&sideLabels=8a7560&currStreakNum=F5EDD6&sideNums=F5EDD6&dates=5a4030" width="65%" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Am1n0N&theme=github_dark&hide_border=true" height="160" alt="Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Am1n0N&theme=github_dark&hide_border=true" height="155" alt="Languages"/>
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Am1n0N&theme=github_dark&hide_border=true&utcOffset=1" height="160" alt="Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Am1n0N&theme=github_dark&hide_border=true&utcOffset=1" height="155" alt="Productive Time"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Am1n0N&theme=github-compact&bg_color=160d07&color=C9A84C&line=CC0001&point=F5EDD6&hide_border=true&area=true&area_color=CC0001" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Am1n0N&theme=github-compact&bg_color=0e0906&color=C9A84C&line=CC0001&point=F5EDD6&hide_border=true&area=true&area_color=CC0001" width="100%" alt="Activity Graph"/>
 
 </div>
 
@@ -127,23 +120,7 @@
 
 <div align="center">
 
-### `$ git log --oneline --graph`
-
-<img src="https://raw.githubusercontent.com/Am1n0N/Am1n0N/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-<div align="center">
-
-*بناء المستقبل من قلب تونس*
-
-*Clean architecture. Scalable systems. Real-world impact.*
-
-<br/>
-
-🇹🇳 &nbsp; `█████` `░░░░░░░` `█████`
+*بناء المستقبل من قلب تونس — Building the future from the heart of Tunisia*
 
 <br/>
 
@@ -151,6 +128,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e0906,40:CC0001,70:C9A84C,100:0e0906&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e0906,35:8B0000,65:CC0001,85:C9A84C,100:0e0906&height=90&section=footer" width="100%"/>
 
 </div>
