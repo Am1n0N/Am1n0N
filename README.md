@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e0906?style=for-the-badge&logo=linkedin&logoColor=C9A84C)](https://linkedin.com/in/mohamed-amine-rouissi-270616254)
 [![Facebook](https://img.shields.io/badge/Facebook-0e0906?style=for-the-badge&logo=facebook&logoColor=C9A84C)](https://fb.com/mohamedamine.rouissi)
 [![Email](https://img.shields.io/badge/Email-0e0906?style=for-the-badge&logo=gmail&logoColor=C9A84C)](mailto:Mohamedaminerouissi26@gmail.com)
-[![Tunisia](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B3%20Tunis%2C%20Tunisia-CC0001?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Tunisia)
+[![Tunisia](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B3%20Tunis%2C%20Tunisia-CC0001?style=for-the-badge)](https://en.wikipedia.org/wiki/Tunisia)
 
 <br/>
 
@@ -98,21 +98,17 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Am1n0N&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" width="100%" alt="trophies"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Am1n0N&show_icons=true&theme=dark&bg_color=0e0906&title_color=CC0001&icon_color=C9A84C&text_color=F5EDD6&border_color=2e1c0c&hide_border=false&count_private=true" width="48%" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Am1n0N&layout=compact&theme=dark&bg_color=0e0906&title_color=CC0001&text_color=F5EDD6&border_color=2e1c0c&hide_border=false" width="47%" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Am1n0N&theme=github-dark-blue&hide_border=true&background=0e0906&stroke=2e1c0c&ring=CC0001&fire=C9A84C&currStreakLabel=CC0001&sideLabels=8a7560&currStreakNum=F5EDD6&sideNums=F5EDD6&dates=5a4030" width="65%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Am1n0N&theme=github-dark-blue&hide_border=false&background=0e0906&stroke=2e1c0c&ring=CC0001&fire=C9A84C&currStreakLabel=CC0001&sideLabels=8a7560&currStreakNum=F5EDD6&sideNums=F5EDD6&dates=5a4030&border=2e1c0c" width="65%" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Am1n0N&theme=github_dark&hide_border=true" height="155" alt="Languages"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Am1n0N&theme=github_dark&hide_border=true&utcOffset=1" height="155" alt="Productive Time"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Am1n0N&theme=github-compact&bg_color=0e0906&color=C9A84C&line=CC0001&point=F5EDD6&hide_border=true&area=true&area_color=CC0001" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Am1n0N&theme=github-compact&bg_color=0e0906&color=C9A84C&line=CC0001&point=F5EDD6&hide_border=false&area=true&area_color=CC0001&custom_title=Mohamed%20Amine%27s%20Contribution%20Graph" width="100%" alt="Activity Graph"/>
 
 </div>
 
